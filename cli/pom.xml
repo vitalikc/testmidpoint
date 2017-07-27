@@ -79,15 +79,7 @@
                     <exclusion>
                         <groupId>org.aspectj</groupId>
                         <artifactId>*</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.springframework</groupId>
-                        <artifactId>*</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>net.sf.ehcache</groupId>
-                        <artifactId>*</artifactId>
-                    </exclusion>
+
                 </exclusions>
             </dependency>
         </dependencies>
